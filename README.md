@@ -1,2 +1,11 @@
 # Easy-Convert
-A Python Program which can convert the images in a folder to a Numpy Array.
+EasyConvert is a Python program capable of converting all the images inside a specified folder into a numpy array.
+
+EasyConvert uses the following modules - 
+  - Numpy
+  - OS
+  - CV2
+  - random
+ 
+
+
